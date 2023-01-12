@@ -20,6 +20,6 @@ function fizzBuzz() {
         array.push(i)
       }
     }
-console.log(array);
+console.log(array.join('\r\n'));
   }
 fizzBuzz();
